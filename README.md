@@ -1,4 +1,6 @@
 # smart-terrace-plantation
+DEMO OF THE PROJECT 
+https://amritavishwavidyapeetham-my.sharepoint.com/:f:/g/personal/cb_en_u4cse22220_cb_students_amrita_edu/EqUWPbB7-MtMgfQftWUAN6QB2ESQQxx1__syBbrk9X7dJA?e=5qpouW
 
 The Smart Terrace Plantation project aims to automate the irrigation process, monitor the plant health, and detect diseases in plant leaves using deep learning models. The system uses various sensors such as humidity sensors, temperature sensors, soil moisture sensors, and motor pumps to optimize plant growth. 
 
